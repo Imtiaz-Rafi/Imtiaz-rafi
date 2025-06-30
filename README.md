@@ -8,6 +8,13 @@
 
 ---
 
+### 📌 Kindly visit 🥺👉👈 
+
+<!-- Replace the below repo links with your actual top projects -->
+ 🔗 [**imtiaj-rafi-is-a-dev**](https://imtiaj-rafi-dev.netlify.app/)  
+  *My personal portfolio website
+
+---
 
 
 ### 🛠️ My Tech Stack
@@ -31,14 +38,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
-
----
-
-### 📌 Kindly visit 🥺👉👈 
-
-<!-- Replace the below repo links with your actual top projects -->
- 🔗 [**imtiaj-rafi-is-a-dev**](https://imtiaj-rafi-dev.netlify.app/)  
-  *My personal portfolio website
 
 ---
 
