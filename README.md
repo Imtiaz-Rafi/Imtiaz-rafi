@@ -12,7 +12,7 @@
 
 <!-- Replace the below repo links with your actual top projects -->
  🔗 [**imtiaj-rafi-is-a-dev**](https://imtiaj-rafi-dev.netlify.app/)  
-  *My personal portfolio website
+  *My personal portfolio website*
 
 ---
 
