@@ -1,6 +1,6 @@
 <!-- Profile README.md -->
 
-<h1 align="center">Hi there, I'm Imtiaz Rafi 👋</h1>
+<h1 align="center">Hi there, I'm Imtiaj Rafi 👋</h1>
 
 <p align="center">
   <em>Backend Software Engineer | Competitive Progrmmer | Traveler</em>
